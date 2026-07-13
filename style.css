@@ -85,3 +85,24 @@ border-radius:8px;
 display:inline-block;
 
 }
+.hero ul{
+
+    margin:15px 0 30px 25px;
+
+}
+
+.hero li{
+
+    margin-bottom:12px;
+
+}
+
+.hero h2{
+
+    margin-top:30px;
+
+    margin-bottom:15px;
+
+    font-size:28px;
+
+}
