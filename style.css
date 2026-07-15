@@ -195,27 +195,7 @@ display:inline-block;
 /* MOBILE RESPONSIVE */
 /* ============================= */
 
-@media (max-width: 768px) {
-
-    nav{
-
-        flex-direction:column;
-
-        gap:20px;
-
-    }
-
-    nav ul{
-
-        flex-direction:column;
-
-        align-items:center;
-
-        gap:15px;
-
-        padding:0;
-
-    }
+@media (max-width:768px){
 
     .hero{
 
@@ -473,5 +453,14 @@ nav a:hover{
 .line3{
 
     transition:.35s;
+
+}
+@media (max-width:768px){
+
+    .menu-toggle{
+
+        display:block !important;
+
+    }
 
 }
