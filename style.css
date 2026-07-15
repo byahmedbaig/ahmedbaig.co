@@ -208,13 +208,13 @@ display:inline-block;
     .hero h1{
 
         font-size:36px;
-
+        
     }
 
     .hero p{
 
         font-size:18px;
-
+        text-align:left
     }
 
     .contact-grid{
