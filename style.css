@@ -201,7 +201,7 @@ display:inline-block;
 
         padding:40px 20px;
 
-        text-align:center;
+        text-align:left;
 
     }
 
@@ -210,7 +210,11 @@ display:inline-block;
         font-size:36px;
         text-align:left
     }
+    .hero h2{
 
+        font-size:24px;
+        text-align:left
+    }
     .hero p{
 
         font-size:18px;
