@@ -208,7 +208,7 @@ display:inline-block;
     .hero h1{
 
         font-size:36px;
-        
+        text-align:left
     }
 
     .hero p{
@@ -220,7 +220,7 @@ display:inline-block;
     .contact-grid{
 
         grid-template-columns:1fr;
-
+        text-align:left
     }
 
 }
